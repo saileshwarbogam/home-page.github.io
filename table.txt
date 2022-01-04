@@ -1,0 +1,28 @@
+<div class="education" style="overflow-x: auto;">
+            <table>
+                <tr>
+                    <th>Qualification</th>
+                    <th>Passing Year</th>
+                    <th>Institution</th>
+                    <th>Marks/CGPA</th>
+                </tr>
+                <tr>
+                    <td>B.E</td>
+                    <td>2022</td>
+                    <td>MVSR</td>
+                    <td>8.43/10</td>
+                </tr>
+                <tr>
+                    <td>Inter</td>
+                    <td>2018</td>
+                    <td>Sri Gayatri</td>
+                    <td>981/1000</td>
+                </tr>
+                <tr>
+                    <td>SSC</td>
+                    <td>2016</td>
+                    <td>Apex Central School</td>
+                    <td>9.7/10</td>
+                </tr>
+            </table>
+        </div>
